@@ -14,6 +14,9 @@
   <a href="https://github.com/Niranjan-Software-DEV">
     <img src="https://img.shields.io/badge/GitHub-Niranjan--Software--DEV-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="24"/>
   </a>&nbsp;
+  <a href="https://github.com/Niranjan-Software-DEV/Niranjan-nix/blob/main/Niranjan-Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=111827" height="24"/>
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Niranjan-Software-DEV&style=for-the-badge&color=1E3A8A&label=VIEWS&abbreviated=true&labelColor=111827" height="24"/>
 </p>
 
